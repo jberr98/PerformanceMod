@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "A22EED4E44D370DCF5A6C78B44DFD86E",
+	"FriendlyName": "A Simple Performance Mod",
+	"Description": "Few optimizations for better performance&cf_ugcID=949310",
+	"Category": "UGC",
+	"CreatedBy": "jberr98",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.curseforge.com/ark-survival-ascended/mods/a-simple-performance-mod",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}

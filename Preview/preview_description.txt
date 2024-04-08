@@ -1,0 +1,1 @@
+Apply console commands on load to improve performance. Maintain a good image quality while having a smoother experience.
